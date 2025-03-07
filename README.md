@@ -1,21 +1,14 @@
+# EDM-Portfolio - adrianlabor19
+This portfolio will contain copies of my Enterprise Data Management Lab Exercises
+# About Me
+Hi, I'm Adrian R. Labor, and I am 20 years old. I'm passionate about technologies on how will work?. In the future, I aim to become a Programmer, where I can combine my skills and passion to make a positive impact. I’m excited about the journey ahead and all the opportunities to learn and grow along the way!
 
-# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
-For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation 
-## STEP 1 Data Cleaning process
-- Load the raw file
-- Fit Column and row width and height
-- TRIM extra spaces
-- Remove NULL values
-- Remove Duplicates
-## STEP 2 Normalization 
-- Performed 1NF
-- Perform Table split using 2NF
-- Perform 3 NF
-- Mapped the Normalized tables as a Physical Data Model
-## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
-<img src="images/1.JPG" alt="Alt Text" width="400" height="300">
 
-## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-![Sample Output](images/1.JPG)
-## Here's the Physical Data Model
-
+# Education
+- College: Bachelor of Science in Information System (CCA)
+- Senior High School: Telabastagan Integrated School
+- HIgh School: Pulung Bulu Integrated School
+- Elementary: Pulung Bulu Integrated School
+# My Projects
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
