@@ -15,5 +15,5 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/d3c1bef147d99a973655c5d50716f669aa649ccb/Midterm%20Lab%20Task%201/Screenshot%202025-03-07%20092918.png)
 
 ### STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-![Sample Output](images/1.JPG)
+![Sample Output](https://github.com/adrianlabor19/adrianlabor19/blob/ef91f4b2a062622a1f8350f9b877366e247491d1/Midterm%20Lab%20Task%201/Screenshot%202025-03-07%20093753.png))
 ### Here's the Physical Data Model
