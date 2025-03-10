@@ -17,3 +17,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ### STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![Sample Output](https://github.com/adrianlabor19/adrianlabor19/blob/ef91f4b2a062622a1f8350f9b877366e247491d1/Midterm%20Lab%20Task%201/Screenshot%202025-03-07%20093753.png))
 ### Here's the Physical Data Model
+![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/6fe057e10c1f571c6e5d44f149f904de8f0cfe59/Midterm%20Lab%20Task%201/Screenshot%202025-03-07%20095759.png)
