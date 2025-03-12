@@ -1,1 +1,35 @@
-
+### Midterm Lab Task 2 - Data Cleaning and Transformation
+## Using Power Query Editor
+Company X would like to extract some useful information from the Uncleaned_DS_jobs.csv dataset taken
+from a Job Posting site available on Kaggle. The goal is to answer:
+1. Which Job Roles pay the highest and least?
+2. What size companies pay the best?
+3. Which Job Roles or Job Titles pay the best and least in a specific state?
+## Instructions:
+1. Download the dataset (Uncleaned_DS_jobs.csv).
+2. Load Data in Excel -> Data -> New Query -> Open File -> Text/CSV.
+3. Load and edit dataset using Power Query Editor.
+4. Duplicate the raw data.
+## Data Cleaning Tasks:
+- Remove characters in Salary Estimate column after the '('.
+- Create Min Salary and Max Salary columns from Salary Estimate.
+- Add a Role Type column categorizing jobs as Data Scientist, Data Analyst, etc.
+- Split columns by delimiters and correct location data.
+- Handle negative values in Competitors, Revenue, and Industry columns.
+- Clean company names and remove unnecessary descriptions.
+- Copy Applied Steps as proof of data cleaning (Advanced Editor).
+## Reshape and Group Data:
+1. Duplicate raw data -> Rename as 'Sal By Role Type dup' -> Select Role Type, Min Sal, Max Sal -> Convert
+to currency -> Group by Role Type.
+2. Reference raw data -> Rename as 'Sal By Role Size ref' -> Select Size, Min Sal, Max Sal -> Convert to
+currency -> Group by Company Size.
+3. Merge dataset with state mapping files to correct and map location data.
+4. Reference raw data -> Rename as 'Sal By State ref' -> Select State Full Name, Min Sal, Max Sal ->
+Convert to currency -> Group by State.
+View dependencies and references of Queries using the View -> Dependencies feature in Power Query.
+## Here's the screenshot of my output before I started data cleaning (See screenshot)
+!Image Alt(
+## Here's the screenshot of my output after I started data cleaning (See screenshot)
+!Image Alt(
+## Here's the Final Data Cleaning and Transformation
+!Image Alt(
