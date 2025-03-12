@@ -35,4 +35,4 @@ View dependencies and references of Queries using the View -> Dependencies featu
 
 ## Here's the Final Data Cleaning and Transformation
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/f8ee4d98fcf54e6f742f657378b952749890493f/Midterm%20Task%202/Screenshot/Screenshot%202025-03-12%20100523.png)
-![image alt](
+![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/0e60d4d5aa57cd9d86fef96ac11c7ce65ce7b0d6/Midterm%20Task%202/Screenshot/Screenshot%202025-03-12%20100554.png)
