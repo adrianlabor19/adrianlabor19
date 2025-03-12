@@ -29,6 +29,7 @@ Convert to currency -> Group by State.
 View dependencies and references of Queries using the View -> Dependencies feature in Power Query.
 ## Here's the screenshot of my output before I started data cleaning (See screenshot)
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/2f5976b048a18059c9e8a096ed25514541798e92/Midterm%20Task%202/Screenshot/Screenshot%202025-03-12%20095546.png)
+![image alt](
 ## Here's the screenshot of my output after I started data cleaning (See screenshot)
 !Image Alt(
 ## Here's the Final Data Cleaning and Transformation
