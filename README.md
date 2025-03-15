@@ -11,4 +11,4 @@ Hi, I'm Adrian R. Labor, and I am 20 years old. I'm passionate about technologie
 - Elementary: Pulung Bulu Integrated School
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY]([httpse://arshpatchak.github.io/testCodes/](https://github.com/adrianlabor19/adrianlabor19/blob/08ca4377669b86952c820b292cc2efd55ef5ffe9/Midterm%20Task%202/README.md))
+- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Midterm Task 2/README.md)
