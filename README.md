@@ -6,8 +6,8 @@ Hi, I'm Adrian R. Labor, and I am 20 years old. I'm passionate about technologie
 
 # Education
 - College: Bachelor of Science in Information System (CCA)
-- Senior High School: Telabastagan Integrated School
-- HIgh School: Pulung Bulu Integrated School
+- Senior High School: Accountancy, Business, and Management (TIS)
+- High School: Pulung Bulu Integrated School
 - Elementary: Pulung Bulu Integrated School
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
