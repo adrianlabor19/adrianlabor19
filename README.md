@@ -12,4 +12,4 @@ Hi, I'm Adrian R. Labor, and I am 20 years old. I'm passionate about technologie
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/adrianlabor19/adrianlabor19/blob/main/Midterm%20Task%202/README.md)
-- Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD]
+- Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://github.com/adrianlabor19/adrianlabor19/tree/67e38a6435763f1896e0ec1d907be53bf500b021/Midterm%20Task%203)
