@@ -14,3 +14,4 @@ Hi, I'm Adrian R. Labor, I'm a first year college taking the Bachelor of Science
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/adrianlabor19/adrianlabor19/blob/main/Midterm%20Task%202/README.md)
 - Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://github.com/adrianlabor19/adrianlabor19/tree/67e38a6435763f1896e0ec1d907be53bf500b021/Midterm%20Task%203)
 - Finals Practice Task 1: [SQL Basic](https://github.com/adrianlabor19/adrianlabor19/blob/main/Finals%20Practice%20Task%201%20SQL%20Basic/README.md)
+- Finals Task 1: [Multi Level Company Database]
