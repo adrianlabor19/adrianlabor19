@@ -40,5 +40,5 @@
 
 
 ## Sql copy of the database and table sturctures
-![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/3b6adfc27822dfa1e58f68ade14c121730100eaa/Finals%20Task%201.%20Multi%20Level%20Company%20Database/README.md/Screenshot%202025-04-23%20093004.png)
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/4ebb3279412d7f862237aaabd7555584483009bd/Finals%20Task%201.%20Multi%20Level%20Company%20Database/README.md/Screenshot%202025-04-23%20084122.png)
+![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/3b6adfc27822dfa1e58f68ade14c121730100eaa/Finals%20Task%201.%20Multi%20Level%20Company%20Database/README.md/Screenshot%202025-04-23%20093004.png)
