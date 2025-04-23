@@ -1,10 +1,11 @@
 Query statements
 Task 1
-
+![image alt]
 Task 2
-
+![image alt]
 Task 3
-
+![image alt]
 Task 4
-
+![image alt]
 Task 5
+![image alt]
