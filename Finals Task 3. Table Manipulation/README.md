@@ -30,7 +30,7 @@ MODIFY the product_name field to have a maximum lenght of 120 characters
 
 
 ## ER Diagram or Relational schema from phpMyAdmin or Workbench
-![image alt](
+![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/50f519cb523d3f8c849e8e053dffa770b05930c6/Finals%20Task%203.%20Table%20Manipulation/Screenshot%202025-04-24%20122918.png)
 
 ## Sql copy of the database and table structures
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/4f53bc16edbc02089da4c37772ac8bb81d86ca6e/Finals%20Task%203.%20Table%20Manipulation/Screenshot%202025-04-23%20114744.png)
