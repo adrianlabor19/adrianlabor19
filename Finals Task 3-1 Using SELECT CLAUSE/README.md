@@ -3,37 +3,37 @@
 
 ## Query statements
 
-# Task 1
+### Task 1
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/7b7d63fb4471849c064db1a78925622948cf1511/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/Capture.PNG)
 
-# Task 2
+### Task 2
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/7b7d63fb4471849c064db1a78925622948cf1511/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/1.PNG)
 
-# Task 3
+### Task 3
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/7b7d63fb4471849c064db1a78925622948cf1511/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/2.PNG)
 
-# Task 4
+### Task 4
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/7b7d63fb4471849c064db1a78925622948cf1511/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/3.PNG)
 
-# Task 5
+### Task 5
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/7b7d63fb4471849c064db1a78925622948cf1511/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/5.PNG)
 
 
 ## Output of each query
 
-# Task 1
+### Task 1
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/71dec01ab739a0c4b85d9424c0738858c078c23d/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/1.1.PNG)
 
-# Task 2
+### Task 2
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/71dec01ab739a0c4b85d9424c0738858c078c23d/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/1.2.PNG)
 
-# Task 3
+### Task 3
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/71dec01ab739a0c4b85d9424c0738858c078c23d/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/1.3.PNG)
 
-# Task 4
+### Task 4
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/71dec01ab739a0c4b85d9424c0738858c078c23d/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/1.4.PNG)
 
-# Task 5
+### Task 5
 ![image alt](https://github.com/adrianlabor19/adrianlabor19/blob/71dec01ab739a0c4b85d9424c0738858c078c23d/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/1.5.PNG)
 
 
