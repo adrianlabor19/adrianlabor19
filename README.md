@@ -18,4 +18,4 @@ Hi, I'm Adrian R. Labor, I'm a first year college taking the Bachelor of Science
 - Finals Task 2: [Transforming ER Model to Relational Tables](https://github.com/adrianlabor19/adrianlabor19/blob/main/Finals%20Task%202.%20Transforming%20ER%20Model%20to%20Relational%20Tables/README.md)
 - Finals Task 3: [Table Manipulation](https://github.com/adrianlabor19/adrianlabor19/blob/main/Finals%20Task%203.%20Table%20Manipulation/README.md)
 - Finals Task 3-1: [Using SELECT CLAUSE](https://github.com/adrianlabor19/adrianlabor19/blob/main/Finals%20Task%203-1%20Using%20SELECT%20CLAUSE/README.md)
-- Finals Lab Task 6: [MongoDB Practice](https://github.com/adrianlabor19/adrianlabor19/blob/main/Finals%20Lab%20Task%206.%20MongoDB%20Practice/README.md)
+- Finals Lab Task 6: [MongoDB Practice](https://github.com/adrianlabor19/adrianlabor19/blob/c53ef76caed5e9b578310496534a89c8ac00bd58/Finals%20Lab%20Task%206.%20MongoDB%20Practice/README.md)
